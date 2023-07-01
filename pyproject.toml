@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "wordiff"
-version = "0.0.4"
+version = "0.0.1"
 authors = [
-  { name="Martyscode", email="author@example.com" },
+  { name="Abitmarty", email="author@example.com" },
 ]
 description = "Identify the most distinctive words when comparing text across different groups."
 readme = "README.md"
@@ -18,4 +18,4 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
+"Homepage" = "https://github.com/abitmarty/wordiff"
