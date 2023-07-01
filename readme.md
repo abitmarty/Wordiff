@@ -40,4 +40,4 @@ This package uses:
 - wordcloud: WordCloud
 - nltk: FreqDist
 - sklearn.feature_extraction.text: CountVectorizer
-- atplotlib.pyplot: plt
+- matplotlib.pyplot: plt
